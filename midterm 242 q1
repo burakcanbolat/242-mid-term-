@@ -1,0 +1,9 @@
+BURAK CANBOLAT
+
+Asciiname=98+117+114+97+107=533
+Asciisurname=99+97+110+98+111+108+97+116=836
+Asciitotal=1369
+Timernumber=(Asciitotal%14)+1=12
+ARRNUMBER=65536-1=65535
+Duration=(Asciisurname%1500)*30=25080
+LEDPINNUMBER=(Asciitotal%4)+12=13
